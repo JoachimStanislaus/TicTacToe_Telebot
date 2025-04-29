@@ -1,8 +1,9 @@
 # TicTacToe_Telebot 🎮🤖
 A simple Telegram bot that lets you play Tic Tac Toe via chat.
 
-|    ![gameplay](example/start_game.png)    | ![endgame](example/end_game.png) |
-| :-----------------------------------------: | :-------------------------------: |
+![gameplay](example/start_game.png)
+
+![endgame](example/end_game.png) |
 
 ## 🤖 How to Get a Telegram Bot API Token
 
