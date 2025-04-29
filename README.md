@@ -66,12 +66,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Freeze Dependencies (Optional)
-
-```sh
-pip freeze > requirements.txt
-```
-
 ### Deactivate the Environment
 
 ```sh
