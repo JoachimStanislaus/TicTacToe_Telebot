@@ -66,6 +66,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Run game
+```sh
+python3 test.py 
+or
+python test.py
+```
+
 ### Deactivate the Environment
 
 ```sh
