@@ -23,9 +23,10 @@ Follow these steps to create a Telegram bot and get its API token.
 Send the command:
 ```text
 /newbot
+```
 
 
-## Python Virtual Environment Setup
+### Python Virtual Environment Setup
 
 Follow these steps to set up your environment and install dependencies.
 
